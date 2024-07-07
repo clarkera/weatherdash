@@ -45,7 +45,7 @@
   height: 45px;
   line-height: 45px;
   padding: 0 20px;
-  color: grey;
+  color: rgb(37, 37, 37);
 }
 
 .current-weather-container {
@@ -92,7 +92,7 @@
 }
 
 .favorable {
-  background-color: green;
+  background-color: rgb(41, 110, 41);
 }
 
 .moderate {
